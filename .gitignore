@@ -1,0 +1,38 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+myenv/
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/project files
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Jupyter notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Generated images or output files
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Environment and dependency files
+*.env
+.env/
+myenv/
