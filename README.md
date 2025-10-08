@@ -32,11 +32,11 @@ pip install requirements.txt
 
 ## How to Run
 
-1. Save the script as `main.py`.
+1. Save the script as `.py`.
 2. Run it in your terminal:
 
    ```bash
-   python main.py
+   python karate_club.py
    ```
 3. The program computes eigenvector centrality and highlights the top five influential nodes in red on the network graph.
 
@@ -50,7 +50,7 @@ Top influential node: 34
 
 The generated visualization (`karate_centrality.png`) shows the network with influential nodes marked in red.
 ![Final Image](karate_centrality.png)
----
+
 
 ## Author
 
