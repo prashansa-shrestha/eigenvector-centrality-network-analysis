@@ -55,5 +55,5 @@ The generated visualization (`karate_centrality.png`) shows the network with inf
 ## Author
 
 **Prashansa Shrestha**
-Pulchowk Campus, Tribhuvan University
+Pulchowk Campus, Tribhuvan University<br/>
 [079bct061.prashansa@pcampus.edu.np](mailto:079bct061.prashansa@pcampus.edu.np)
