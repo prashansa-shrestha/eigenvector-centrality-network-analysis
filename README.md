@@ -49,7 +49,7 @@ Top influential node: 34
 ```
 
 The generated visualization (`karate_centrality.png`) shows the network with influential nodes marked in red.
-![Final Image](karate_centrality.png)
+<img src="karate_centrality.png" alt="Final Image" width="400">
 
 
 ## Author
